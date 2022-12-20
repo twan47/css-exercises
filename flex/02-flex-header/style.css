@@ -26,7 +26,16 @@ a {
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+}
+
+.header {
+  padding: 8px;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display:flex;
+  
 }
