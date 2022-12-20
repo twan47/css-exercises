@@ -46,3 +46,16 @@ a {
 ul {
   list-style-type: none;
 }
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+
+}
+
+.left, .right {
+
+}
